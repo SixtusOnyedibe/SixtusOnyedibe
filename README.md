@@ -6,4 +6,4 @@
 
 [🐦 Twitter](https://twitter.com/SixtusOnyedibe) · [👔 LinkedIn](https://www.linkedin.com/in/sixtusonyedibe/) ·
 
-[👨‍🎓 Certification](https://intranet.alxswe.com/certificates/5B7Ef3YRhn) .
+[👨‍🎓 ALX SE Certificate](https://intranet.alxswe.com/certificates/5B7Ef3YRhn) .
